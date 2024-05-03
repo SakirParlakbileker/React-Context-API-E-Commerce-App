@@ -1,4 +1,4 @@
-## React E-Commerce Application
+## React E-Commerce Appl
 
 ### Description
 
