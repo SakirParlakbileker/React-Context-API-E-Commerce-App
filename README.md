@@ -6,7 +6,8 @@ Welcome to our React E-Commerce Application! This project is designed to provide
 
 ## GIF
 
-![Screen_Recording_2024-02-04_at_17_45_50_AdobeExpress-ezgif com-video-to-gif-converter](https://github.com/tubayapa/React-Context-API---E-Commerce/assets/147662888/5b0a602f-e6ff-4eea-afd0-7dadd6e39c45)
+![302122867-5b0a602f-e6ff-4eea-afd0-7dadd6e39c45](https://github.com/SakirParlakbileker/React-Context-API-E-Commerce-App/assets/147662891/9b7c6729-da50-40b3-8943-4288f25e5935)
+
 
 
 ### Key Features
